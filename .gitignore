@@ -1,0 +1,23 @@
+# Vivado generated folders
+*.jou
+*.log
+*.str
+*.tmp
+
+/.Xil/
+*.cache
+*.runs
+*.sim
+
+# Common Vivado folders
+**/VotingMachineAdvanced.runs/
+**/VotingMachineAdvanced.cache/
+**/VotingMachineAdvanced.sim/
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# Backup files
+*~
+*.bak
